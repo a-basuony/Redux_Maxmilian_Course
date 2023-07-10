@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redux_Maxmilian_Course/static/css/main.d3371122.css",
+    "main.js": "/Redux_Maxmilian_Course/static/js/main.9b80bdaa.js",
+    "index.html": "/Redux_Maxmilian_Course/index.html",
+    "main.d3371122.css.map": "/Redux_Maxmilian_Course/static/css/main.d3371122.css.map",
+    "main.9b80bdaa.js.map": "/Redux_Maxmilian_Course/static/js/main.9b80bdaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3371122.css",
+    "static/js/main.9b80bdaa.js"
+  ]
+}
