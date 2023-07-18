@@ -66,6 +66,8 @@ export default Counter;
 //   }
 
 //   resetHandler() {
+       // dispatch({ type: "rest" });
+    // dispatch(counterAction.resetCount());
 //     // Dispatch the action for resetting the counter
 //   }
 
