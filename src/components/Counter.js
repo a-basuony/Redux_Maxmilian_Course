@@ -13,9 +13,7 @@ const Counter = () => {
   };
 
   const decrementHandler = () => {
-    // dispatch({
-    //   type: "decrement",
-    // });
+    // dispatch({ type: "decrement",});
     dispatch(counterAction.decrement());
   };
 
