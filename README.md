@@ -12,3 +12,10 @@ Combining reducers
 Async actions and middleware
 Integrating Redux with React
 Best practices for using Redux in large-scale applications
+
+To run the examples, use the following command:
+# Using npm
+npm start
+
+# Using yarn
+yarn start
