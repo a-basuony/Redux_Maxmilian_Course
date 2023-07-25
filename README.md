@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-To explore the live version of this project, please visit [My Live React Project](https://www.example.com](https://a-basuony.github.io/Redux_Maxmilian_Course/) hosted on GitHub Pages.
+To explore the live version of this project, please visit [My Live React Project](https://a-basuony.github.io/Redux_Maxmilian_Course/) hosted on GitHub Pages.
 
 
 Redux is a predictable state container for JavaScript applications, and it plays a crucial role in managing the application state in a single, immutable state tree. This repository accompanies Maxmilian Schwarzmüller's Redux course, which provides hands-on learning of Redux concepts, such as actions, reducers, middleware, and how to integrate Redux with a React application.
